@@ -1,0 +1,5 @@
+{
+  "name": "SBS Thông tin hợp đồng",
+  "description": "Một ứng dụng web để quản lý thông tin hợp đồng và tính toán các chỉ số xây dựng.",
+  "requestFramePermissions": []
+}

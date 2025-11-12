@@ -1,0 +1,35 @@
+{
+  "short_name": "SBS Hợp đồng",
+  "name": "SBS Thông tin hợp đồng",
+  "description": "Một ứng dụng để quản lý thông tin hợp đồng và tính toán các chỉ số xây dựng, có thể cài đặt và sử dụng offline.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+     {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#ffc107",
+  "background_color": "#1a202c"
+}
